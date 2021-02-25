@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/geolocation-react.git/static/css/main.fe0f2c25.chunk.css",
+    "main.js": "/geolocation-react.git/static/js/main.2b3f34ea.chunk.js",
+    "main.js.map": "/geolocation-react.git/static/js/main.2b3f34ea.chunk.js.map",
+    "runtime-main.js": "/geolocation-react.git/static/js/runtime-main.8ebdc216.js",
+    "runtime-main.js.map": "/geolocation-react.git/static/js/runtime-main.8ebdc216.js.map",
+    "static/js/2.0bd89e20.chunk.js": "/geolocation-react.git/static/js/2.0bd89e20.chunk.js",
+    "static/js/2.0bd89e20.chunk.js.map": "/geolocation-react.git/static/js/2.0bd89e20.chunk.js.map",
+    "static/js/3.69b7331c.chunk.js": "/geolocation-react.git/static/js/3.69b7331c.chunk.js",
+    "static/js/3.69b7331c.chunk.js.map": "/geolocation-react.git/static/js/3.69b7331c.chunk.js.map",
+    "index.html": "/geolocation-react.git/index.html",
+    "static/css/main.fe0f2c25.chunk.css.map": "/geolocation-react.git/static/css/main.fe0f2c25.chunk.css.map",
+    "static/js/2.0bd89e20.chunk.js.LICENSE.txt": "/geolocation-react.git/static/js/2.0bd89e20.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ebdc216.js",
+    "static/js/2.0bd89e20.chunk.js",
+    "static/css/main.fe0f2c25.chunk.css",
+    "static/js/main.2b3f34ea.chunk.js"
+  ]
+}
